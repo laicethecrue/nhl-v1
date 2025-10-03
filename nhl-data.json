@@ -1,1 +1,37 @@
 
+{
+  "teams": [
+    {"id":"MTL","name":"Montréal Canadiens"},
+    {"id":"TOR","name":"Toronto Maple Leafs"},
+    {"id":"BOS","name":"Boston Bruins"},
+    {"id":"NYR","name":"New York Rangers"},
+    {"id":"EDM","name":"Edmonton Oilers"},
+    {"id":"PIT","name":"Pittsburgh Penguins"},
+    {"id":"CHI","name":"Chicago Blackhawks"},
+    {"id":"DET","name":"Detroit Red Wings"}
+  ],
+  "players": [
+    { "name":"Wayne Gretzky", "hints":["Centre","Surnom : The Great One","A marqué plus de 200 points en une saison"] },
+    { "name":"Mario Lemieux", "hints":["Centre","Pittsburgh","Surnom : Super Mario"] },
+    { "name":"Sidney Crosby", "hints":["Centre","Pittsburgh","Capitaine exemplaire, or olympique"] },
+    { "name":"Alex Ovechkin", "hints":["Ailier gauche","Washington","Buteur prolifique"] },
+    { "name":"Connor McDavid", "hints":["Centre","Edmonton","Vitesse et vision du jeu"] },
+    { "name":"Nathan MacKinnon", "hints":["Centre","Colorado","Puissance et explosivité"] },
+    { "name":"Auston Matthews", "hints":["Centre","Toronto","Tir du poignet d’élite"] },
+    { "name":"Carey Price", "hints":["Gardien","Montréal","Calme et technique"] },
+    { "name":"Martin Brodeur", "hints":["Gardien","New Jersey","Beaucoup de victoires en carrière"] },
+    { "name":"Nicklas Lidström", "hints":["Défenseur","Detroit","Jeu défensif parfait"] }
+  ],
+  "quiz": [
+    { "q":"Combien de patineurs par équipe à forces égales ?", "c":["4","5","6"], "a":1, "p":10 },
+    { "q":"Quel geste sert à perturber la vue du gardien ?", "c":["Mise en échec","Écran","Accrochage"], "a":1, "p":10 },
+    { "q":"Quel poste protège le filet ?", "c":["Défenseur","Ailier","Gardien"], "a":2, "p":10 },
+    { "q":"Quelle zone est la plus dangereuse pour tirer ?", "c":["Enclave","Bande","Zone neutre"], "a":0, "p":10 },
+    { "q":"Quel est l’objectif principal en infériorité ?", "c":["Rester compact et couper les lignes de passe","Attaquer à 2","Changer souvent"], "a":0, "p":10 },
+    { "q":"Que faire après un tir ?", "c":["Tourner le dos","Suivre pour le rebond","Aller au banc"], "a":1, "p":10 },
+    { "q":"À l’entrée de zone, une bonne option est :", "c":["Feinte + tir rapide","Tir de la bleue systématique","Tourner en rond"], "a":0, "p":10 },
+    { "q":"Que signifie ‘forecheck’ ?", "c":["Mettre de la pression en zone offensive","Patiner en arrière","Changer de ligne"], "a":0, "p":10 },
+    { "q":"Où se placer sans la rondelle en défense ?", "c":["Couvrir le point dangereux","Rester haut pour partir","Regarder le puck"], "a":0, "p":10 },
+    { "q":"Avant de recevoir une passe, il faut :", "c":["Fermer les yeux","Scanner le jeu","Lever son bâton"], "a":1, "p":10 }
+  ]
+}
